@@ -19,7 +19,7 @@ UUID
 Deployed on Vercel
 
 Installation instructions:
-clone the repo: https://github.com/anthonypaton/reactTodo
+clone the repo: https://github.com/anthonypaton1/TodoReact
 navigate to the folder
 Install dependencies: npm install
 no .envfile needed
